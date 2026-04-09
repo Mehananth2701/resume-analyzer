@@ -1,0 +1,12 @@
+Meha Sri
+Computer Science Engineering Student
+
+Skills:
+Python, Java, HTML, CSS, SQL, GitHub, Communication, Teamwork, Problem Solving
+
+Projects:
+Developed a resume analyzer using Python.
+Built a turf booking system using React and Spring Boot.
+
+Education:
+Bachelor of Engineering in Computer Science

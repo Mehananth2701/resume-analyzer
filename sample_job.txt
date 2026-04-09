@@ -1,0 +1,9 @@
+We are hiring a Python Developer Intern.
+
+Required Skills:
+Python, SQL, Git, Communication, Problem Solving, NLP, Teamwork
+
+Responsibilities:
+Develop scripts for text analysis.
+Work with resumes and job descriptions.
+Create matching logic and generate suggestions.
